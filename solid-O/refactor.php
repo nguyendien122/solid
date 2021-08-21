@@ -6,7 +6,7 @@
 |--------------------------------------------------------------------------
 |
 */
-// Tạo một interfacetệp.
+// Tạo một interface tệp.
 interface LoginInterface
 {
     public function authenticateUser($user);
